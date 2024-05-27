@@ -1,13 +1,11 @@
 ![Banner Rozangela](https://github.com/RozangelaPeixoto/RozangelaPeixoto/assets/140510936/087cd626-13c8-4f9b-b893-816ef83e33dd)
 
-# Oi 👋 Me chamo Rozangela
-
 ## Sobre mim
 
-👨‍💻 Experiência de 5 anos com Backend Python, PHP e Javascript
-💡 No momento expandindo meus conhecimentos para o desenvolvimento full stack
-🎓 Cursando Análise e Desenvolvimento de Sistemas
-📚 No meu tempo livre gosto de estudar sobre tecnologia e ler livros
+👨‍💻 Experiência de 5 anos com Backend Python, PHP e Javascript<br />
+💡 No momento expandindo meus conhecimentos para o desenvolvimento full stack<br />
+🎓 Cursando Análise e Desenvolvimento de Sistemas<br />
+📚 No meu tempo livre gosto de estudar sobre tecnologia e ler livros<br />
 📄 Meu currículo (Link)
 
 ### Tecnologias
@@ -29,7 +27,7 @@
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Números do Github
-<p align="center">
+<p>
   <a href="https://github.com/RozangelaPeixoto">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RozangelaPeixoto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
