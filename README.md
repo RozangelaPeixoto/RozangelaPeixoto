@@ -27,17 +27,17 @@
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Números do Github
-<p>
+<p align="center">
   <a href="https://github.com/RozangelaPeixoto">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RozangelaPeixoto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/RozangelaPeixoto">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RozangelaPeixoto&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RozangelaPeixoto&theme=dark&hide_border=true"/>
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RozangelaPeixoto&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RozangelaPeixoto&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 ### Meus contatos
