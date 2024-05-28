@@ -6,7 +6,6 @@
 💡 No momento expandindo meus conhecimentos para o desenvolvimento full stack<br />
 🎓 Cursando Análise e Desenvolvimento de Sistemas<br />
 📚 No meu tempo livre gosto de estudar sobre tecnologia e ler livros<br />
-📄 Meu currículo (Link)
 
 ### Tecnologias
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -27,20 +26,12 @@
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Números do Github
-<p align="center">
-  <a href="https://github.com/RozangelaPeixoto">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RozangelaPeixoto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/RozangelaPeixoto">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RozangelaPeixoto&theme=dark&hide_border=true"/>
-  </a>
-</p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RozangelaPeixoto&layout=compact&langs_count=8&theme=algolia"/>
-</p>
+<img height="180rem" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RozangelaPeixoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180rem" src="https://github-readme-streak-stats.herokuapp.com/?user=RozangelaPeixoto&theme=dracula&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RozangelaPeixoto&layout=compact&langs_count=8&theme=dracula"/>
 
 ### Meus contatos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rozangela-peixoto-6a0186285)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_roxmelo/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:roxpmelo@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rozangela-peixoto-6a0186285)
+  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_roxmelo/)
+  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:roxpmelo@gmail.com)
