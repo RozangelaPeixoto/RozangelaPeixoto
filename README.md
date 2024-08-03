@@ -1,4 +1,4 @@
-![Banner Rozangela](https://github.com/RozangelaPeixoto/RozangelaPeixoto/assets/140510936/087cd626-13c8-4f9b-b893-816ef83e33dd)
+![Banner Rozangela](https://github.com/user-attachments/assets/b20f61a6-66f9-47d4-b3d3-58406c4c9c8b)
 
 ## Sobre mim
 
