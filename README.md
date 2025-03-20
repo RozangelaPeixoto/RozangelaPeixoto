@@ -1,5 +1,4 @@
-![Banner Rozangela](https://github.com/user-attachments/assets/51628f31-22fe-45e7-a5c5-e7c4eebeb406)
-
+<!--![Banner Rozangela](https://github.com/user-attachments/assets/51628f31-22fe-45e7-a5c5-e7c4eebeb406)-->
 ## Sobre mim
 
 👨‍💻 Experiência de 5 anos com Backend Python, PHP e Javascript<br />
