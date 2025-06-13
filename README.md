@@ -1,21 +1,20 @@
 <!--![Banner Rozangela](https://github.com/user-attachments/assets/51628f31-22fe-45e7-a5c5-e7c4eebeb406)-->
 ## Sobre mim
 
-👨‍💻 Experiência de 5 anos com Backend Python, PHP e Javascript<br />
-💡 No momento expandindo meus conhecimentos para o desenvolvimento full stack<br />
+👨‍💻 Experiência de 5 anos com Backend Python e Javascript<br />
+💡 Me aprofudando em Java e Spring Boot<br />
 🎓 Cursando Análise e Desenvolvimento de Sistemas<br />
 📚 No meu tempo livre gosto de estudar sobre tecnologia e ler livros<br />
 
 ### Tecnologias
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
+
 
 ### Ferramentas
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
