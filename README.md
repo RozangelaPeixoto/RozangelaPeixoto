@@ -8,12 +8,13 @@
 
 ### Tecnologias
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
 ### Ferramentas
@@ -26,7 +27,7 @@
 ### Números do Github
 
 <img height="180rem" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RozangelaPeixoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180rem" src="https://github-readme-streak-stats.herokuapp.com/?user=RozangelaPeixoto&theme=dracula&hide_border=true"/>
+<!--img height="180rem" src="https://github-readme-streak-stats.herokuapp.com/?user=RozangelaPeixoto&theme=dracula&hide_border=true"/ -->
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RozangelaPeixoto&layout=compact&langs_count=8&theme=dracula"/>
 
 ### Meus contatos
